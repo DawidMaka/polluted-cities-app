@@ -7,7 +7,7 @@ Technologies and tools I've used with this project:
   - CSS3 SASS preprocessor
   - BEM Methodology
   - Webpack
-  - Javascript
+  - TypeScript
 
   Live: https://web-devvv.github.io/polluted-cities-app/
 
