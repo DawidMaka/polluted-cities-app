@@ -6,7 +6,11 @@
 	    padding: .75rem 1.25rem;
 	    margin-bottom: -1px;
 	    background-color: #fff;
-	    border: 1px solid rgba(0,0,0,.125);
+		border: 1px solid rgba(0,0,0,.125);
+		
+		&_active {
+			background-color: gainsboro;
+		}	
 	}	
 
 	&__item:first-child {
@@ -28,11 +32,7 @@
 
 		.list__item {
 			padding: 0.25rem 1rem;
-			cursor: pointer;
-
-			&_active {
-				background-color: gainsboro;
-			}		
+			cursor: pointer;				
 		}
 	}
 }
