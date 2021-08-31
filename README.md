@@ -9,9 +9,9 @@ Technologies and tools I've used with this project:
   - Webpack
   - TypeScript
 
-  Live: https://web-devvv.github.io/polluted-cities-app/
+  Live: https://DawidMaka.github.io/polluted-cities-app/
 
-  Src: https://github.com/web-deVVV/polluted-cities-app/tree/master/src
+  Src: https://github.com/DawidMaka/polluted-cities-app/tree/master/src
 
 ## Details
 
